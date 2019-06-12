@@ -12,7 +12,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-https://www.pivotaltracker.com/n/projects/2337803
+https://www.pivotaltracker.com/projects/2337803
 
 ### Project Repo Link
 
